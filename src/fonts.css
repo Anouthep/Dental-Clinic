@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'LaoClassic';
+  src: url('./assets/fonts/Lao_Classic3.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal; 
+}
+body {
+  font-family: 'LaoClassic', sans-serif;
+}
